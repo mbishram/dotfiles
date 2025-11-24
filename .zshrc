@@ -12,4 +12,4 @@ alias c="cd /mnt/c"
 alias me="cd ~/personal"
 
 # Mise setup
-eval "$(/home/mbishram/.local/bin/mise activate zsh)" # added by https://mise.run/zsh
+eval "$(~/.local/bin/mise activate zsh)" # added by https://mise.run/zsh
