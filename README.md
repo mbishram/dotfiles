@@ -8,3 +8,8 @@ A collection of linux configuration files
 - Antigen
 - Mise
 - Docker
+
+## Good References
+
+- [Managing my dotfiles as a git repository](https://drewdevault.com/2019/12/30/dotfiles.html)
+- [Dotfiles: Best way to store in a bare git repository](https://www.atlassian.com/git/tutorials/dotfiles)
