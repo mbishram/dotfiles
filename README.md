@@ -4,6 +4,7 @@ A collection of linux configuration files
 
 ## Package to Install
 
+- Stow
 - Mise
 - Zsh
 - Antigen
