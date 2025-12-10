@@ -4,10 +4,11 @@ A collection of linux configuration files
 
 ## Package to Install
 
+- Mise
 - Zsh
 - Antigen
-- Mise
 - Docker
+- DDEV
 
 ## Good References
 
