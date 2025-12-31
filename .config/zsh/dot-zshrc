@@ -1,11 +1,9 @@
-# Load Antigen
-source ~/antigen.zsh
+# Setup antidote
+source "$ZDOTDIR/.antidote/antidote.zsh"
+antidote load
 
 # Setup for oh-my-zsh keychain plugin
 zstyle :omz:plugins:keychain agents gpg,ssh
-
-# Load Antigen configurations
-antigen init ~/.antigenrc
 
 # List of aliases
 alias c="cd /mnt/c"

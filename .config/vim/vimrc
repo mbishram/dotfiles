@@ -1,0 +1,9 @@
+" Setup XDG Base Directory
+set viminfofile=$XDG_STATE_HOME/vim/viminfo
+
+" Config
+imap ,, <Esc>
+set clipboard+=unnamedplus
+set relativenumber
+set number
+
