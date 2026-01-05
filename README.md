@@ -4,9 +4,20 @@ A collection of Linux configuration files that adhere to [XDG Base Directory](ht
 
 > XDG Base Directory compliance has only been tested on **Ubuntu 25.04**. Some packages (such as Vim) may not work out of the box on older versions.
 
-## Package to Install
+## Getting Started
 
-- Stow
+This is a step-by-step guide on how I usually set up a local environment.
+
+1. Install and set up Git.
+2. Clone this repo into the `~/.dotfiles` directory.
+3. Create a symlink using [Stow](https://www.gnu.org/software/stow).
+```shell
+stow --dotfiles .
+```
+4. Install packages on the [Packages to Install](#package-to-install) section.
+
+## Packages to Install
+
 - Mise
 - Zsh
 - Antidote
