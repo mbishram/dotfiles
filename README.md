@@ -14,7 +14,7 @@ This is a step-by-step guide on how I usually set up a local environment.
 ```shell
 stow --dotfiles .
 ```
-4. Install packages on the [Packages to Install](#package-to-install) section.
+4. Install packages on the [Packages to Install](#packages-to-install) section.
 
 ## Packages to Install
 
