@@ -22,12 +22,12 @@ stow --no-folding .
 
 > Need to be installed in this exact order.
 
-1. Mise
-2. Zsh
-3. Antidote
+1. Zsh
+2. Antidote
 
-### Optional
+### Recommended
 
+- Mise
 - Docker
 - DDEV
 
