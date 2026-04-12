@@ -12,15 +12,22 @@ This is a step-by-step guide on how I usually set up a local environment.
 2. Clone this repo into the `~/.dotfiles` directory.
 3. Create a symlink using [Stow](https://www.gnu.org/software/stow).
 ```shell
-stow .
+stow --no-folding .
 ```
-4. Install packages on the [Packages to Install](#packages-to-install) section.
+4. Install packages on the [Packages to Install, Requried section](#required) section.
 
 ## Packages to Install
 
-- Mise
-- Zsh
-- Antidote
+### Required 
+
+> Need to be installed in this exact order.
+
+1. Mise
+2. Zsh
+3. Antidote
+
+### Optional
+
 - Docker
 - DDEV
 
