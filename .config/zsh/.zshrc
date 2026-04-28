@@ -6,7 +6,8 @@ antidote load
 zstyle :omz:plugins:keychain agents gpg,ssh
 
 # List of aliases
-alias c="cd /mnt/c"
+alias dirc="cd /mnt/c"
+alias dird="cd /mnt/d"
 alias me="cd ~/personal"
 
 # Activate mise-en-place
