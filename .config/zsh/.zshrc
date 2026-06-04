@@ -12,3 +12,7 @@ alias me="cd ~/personal"
 
 # Activate mise-en-place
 eval "$(mise activate zsh)"
+
+# Add directory to path
+path+=("$HOME/.local/bin:$PATH")
+export PATH
