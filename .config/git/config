@@ -1,2 +1,7 @@
+[init]
+	defaultBranch = main
 [user]
 	name = Bishram
+[core]
+	autocrlf = true
+	eol = lf
