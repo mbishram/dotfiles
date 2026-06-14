@@ -19,3 +19,7 @@ export GNUPGHOME=$XDG_DATA_HOME/gnupg
 export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 # Gradle
 export GRADLE_USER_HOME=$XDG_DATA_HOME/gradle
+# Golang
+export GOPATH="$XDG_DATA_HOME/go"
+export GOCACHE="$XDG_CACHE_HOME/go-build"
+export GOMODCACHE="$XDG_CACHE_HOME/go/pkg/mod"
