@@ -6,4 +6,7 @@ imap ,, <Esc>
 set clipboard+=unnamedplus
 set relativenumber
 set number
-
+set tabstop=2
+set shiftwidth=2
+set noexpandtab
+set autoindent
